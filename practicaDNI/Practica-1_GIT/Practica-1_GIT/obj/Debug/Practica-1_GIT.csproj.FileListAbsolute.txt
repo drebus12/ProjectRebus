@@ -1,0 +1,8 @@
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\bin\Debug\Practica-1_GIT.exe.config
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\bin\Debug\Practica-1_GIT.exe
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\bin\Debug\Practica-1_GIT.pdb
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\obj\Debug\Practica_1_GIT.Form1.resources
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\obj\Debug\Practica_1_GIT.Properties.Resources.resources
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\obj\Debug\Practica-1_GIT.csproj.GenerateResource.cache
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\obj\Debug\Practica-1_GIT.exe
+F:\OneDrive - Centre d'Estudis Monlau\Desktop\projectGIT\practicaDNI\Practica-1_GIT\Practica-1_GIT\obj\Debug\Practica-1_GIT.pdb
